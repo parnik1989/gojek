@@ -19,6 +19,7 @@ Infrastructure Requirement:
 Setup Instruction:
  Create a pull request from the repository and import the project as Maven Project.
  It will set up the project in IDE from where we can build it using 'mvn clean install'.
+ Run the attached sql file
  We can change the data base connection property as per the local user in 'application.properties' which is available in resource folder.
  After all we can run in a web application server like Tomcat to get the home page of the application.
  
